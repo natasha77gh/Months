@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="spring">#1dff16</color>
+    <color name="summer">#ffef16</color>
+    <color name="fall">#ff9e16</color>
+    <color name="winter">#27aac8</color>
+    <color name="back">#c8f5ff</color>
+
+
+</resources>
